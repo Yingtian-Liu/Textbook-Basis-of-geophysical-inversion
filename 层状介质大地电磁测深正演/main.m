@@ -25,7 +25,6 @@ semilogx(T,pc,'k','LineWidth',1);
 xlabel({'T/s';'(a) 视电阻率曲线'});
 ylabel('$\rho_{\it{a}}$ / $\Omega\cdot m$','Interpreter','latex');
 
-% 右图：相位曲线
 subplot(1,2,2);
 semilogx(T,ph,'k','LineWidth',1);
 xlabel({'T/s';'(b) 相位曲线'});

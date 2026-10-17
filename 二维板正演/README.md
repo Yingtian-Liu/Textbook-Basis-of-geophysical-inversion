@@ -59,8 +59,3 @@ dT_nT = mu0 * dT * 1e9;
 ├── two_dimensional_plate_forward.m
 └── README.md
 ```
-
-## 作者
-
-刘应天  
-成都理工大学
